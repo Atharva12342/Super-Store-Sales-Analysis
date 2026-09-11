@@ -117,7 +117,7 @@ The analysis helps identify:
 
 ## 👨‍💻 Author
 
-**Your Name**
+Atharva Galande
 
 ## 📄 License
 
